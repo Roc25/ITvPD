@@ -1,1 +1,1 @@
-Secret key
+Secret phrase
